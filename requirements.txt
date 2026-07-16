@@ -1,0 +1,13 @@
+# SHAHNAM SCAN - Python Dependencies
+# =====================================
+# Install with:  pip install -r requirements.txt
+#
+# All packages are available on PyPI and work on
+# Kali Linux, Ubuntu 22.04+, and Debian 12+.
+
+# System and process information
+psutil>=5.9.0
+
+# Rich terminal output (optional but recommended for enhanced tables)
+# Uncomment if you want richer table rendering:
+# rich>=13.0.0
